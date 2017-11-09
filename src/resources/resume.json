@@ -24,7 +24,8 @@
     "Management experience"
   ],
   "bonus": [
-    "This resume was build with Webpack, Babel, React, HMR, PostCSS, and CSSnext"
+    "This resume was built with Webpack 3, React 16.0, Babel, HMR, postcss, and cssnext",
+    "Check it out on github: https://github.com/mizner/resume"
   ],
   "experience": [
     {
