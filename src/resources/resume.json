@@ -1,0 +1,148 @@
+{
+  "candidate": {
+    "firstName": "Michael",
+    "lastName": "Mizner",
+    "title": "Front End Developer",
+    "email": "mike@mizner.io",
+    "number": "(347)443-8253"
+  },
+  "modern": [
+    "ECMAScript 2015+",
+    "React JS",
+    "Vue",
+    "Webpack",
+    "PostCSS"
+  ],
+  "traditional": [
+    "PHP (PSR Standards)",
+    "jQuery",
+    "Sass",
+    "Gulp"
+  ],
+  "other": [
+    "Great with clients",
+    "Management experience"
+  ],
+  "bonus": [
+    "This resume was build with Webpack, Babel, React, HMR, PostCSS, and CSSnext"
+  ],
+  "experience": [
+    {
+      "company": "MakeDo",
+      "location": "United Kingdom (remote)",
+      "title": "Project Development Lead",
+      "year": {
+        "start": "2016",
+        "end": "2017"
+      },
+      "tasks": [
+        "Building custom PHP plugins at WPCS Standards",
+        "Create ReactJS interface for client ease of use"
+      ]
+    },
+    {
+      "company": "Knoxweb",
+      "location": "Knoxville, TN",
+      "title": "Lead Developer",
+      "year": {
+        "start": "2014",
+        "end": "Present"
+      },
+      "tasks": [
+        "Custom CMS Work (fields, data types)",
+        "Create standard templates (gulpfile, loop templates) for jr. developers and train",
+        "Theme development (custom templates, SASS, PostCSS)",
+        "Build custom plugins (acf, cmb2, webpack, react)",
+        "WooCommerce solution building and customization",
+        "Determine scope and planning for projects",
+        "Graphic design (logos, mock-ups, style tiles, design guides)"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "location": "Philadelphia, PA",
+      "title": "Web Developer",
+      "year": {
+        "start": "2011",
+        "end": "Present"
+      },
+      "tasks": [
+        "Theme customization",
+        "Plugin stack solutions",
+        "Graphic design",
+        "Maintain client sites"
+      ]
+    },
+    {
+      "company": "CSC",
+      "location": "Newark, DE",
+      "title": "System Administration Assistant Manager",
+      "year": {
+        "start": "2010",
+        "end": "2012"
+      },
+      "tasks": [
+        "Theme customization",
+        "Plugin stack solutions",
+        "Graphic design",
+        "Maintain client sites"
+      ]
+    },
+    {
+      "company": "Altec",
+      "location": "Springfield, MO",
+      "title": "System Administration Assistant Manager",
+      "year": {
+        "start": "2009",
+        "end": "2010"
+      },
+      "tasks": [
+        "Mobile and PC Repair",
+        "Small Business Sales",
+        "Custom server builds and support"
+      ]
+    },
+    {
+      "company": "T-Mobile",
+      "location": "Springfield, MO",
+      "title": "Tech Support",
+      "year": {
+        "start": "2008",
+        "end": "2009"
+      },
+      "tasks": [
+        "Advanced Android application support at release of G1 (first widely launched android phone)",
+        "Monthly incentives at top 10% of site",
+        "Performance at top 10% at call resolution time"
+      ]
+    },
+    {
+      "company": "United States Marine Corps",
+      "location": "Iwakuni, Japan / Scranton, PA",
+      "title": "Supply Chain Manager",
+      "year": {
+        "start": "2004",
+        "end": "2008"
+      },
+      "tasks": [
+        "Supervision and code review of 250+ requisitions Monthly",
+        "Supervision over budgeted annual requirements for 3 Squadrons, averaging $459,000",
+        "Handled DoD purchasing card with a $50,000.00 Monthly purchase limit and a $10,000 single purchase",
+        "Conducted and supervised inventory counts of material worth over $1,750,000"
+      ]
+    },
+    {
+      "company": "MCI",
+      "location": "Springfield, MO",
+      "title": "Customer Service Representative",
+      "year": {
+        "start": "2003",
+        "end": "2004"
+      },
+      "tasks": [
+        "Small business telecommunications account management",
+        "Earned rookie top associate honors"
+      ]
+    }
+  ]
+}

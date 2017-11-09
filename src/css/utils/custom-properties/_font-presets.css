@@ -1,0 +1,10 @@
+:root {
+  --font-primary: {
+    font-family: var(--font-primary);
+  };
+
+  --font-secondary: {
+    font-family: var(--font-secondary);
+    font-weight: 200;
+  };
+}
