@@ -1,5 +1,7 @@
 const {resolve} = require('path');
 const webpack = require('webpack');
+const htmlWebpackPlugin = require('html-webpack-plugin');
+const ReactRootPlugin = require('html-webpack-react-root-plugin');
 
 module.exports = {
     entry: [
@@ -53,5 +55,9 @@ module.exports = {
     plugins: [
         new webpack.HotModuleReplacementPlugin(),
         new webpack.NamedModulesPlugin(),
+        new htmlWebpackPlugin({
+            title: 'Michael Mizner - Resume',
+        }),
+        new ReactRootPlugin(),
     ],
 };
