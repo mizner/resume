@@ -2,32 +2,56 @@
   "candidate": {
     "firstName": "Michael",
     "lastName": "Mizner",
-    "title": "Front End Developer",
-    "email": "mike@mizner.io",
-    "number": "(347)443-8253"
+    "title": "Engineering Lead - Web Evangelist",
+    "email": "michaelmizner@gmail.com",
+    "number": "(347) 443-8253"
   },
   "modern": [
     "ECMAScript 2015+",
-    "React JS",
-    "Vue",
+    "React, Vue, Angular",
+    "WPGraphQL",
+    "WP REST API",
     "Webpack",
-    "PostCSS"
+    "PostCSS",
+    "Modern Static Site Generators (Gatsby, Next)",
+    "DevOps (CI/CD, UNIX, AWS)",
+    "Testing (Jest, Codeception)"
   ],
   "traditional": [
-    "PHP (PSR Standards)",
+    "PHP (PSR2+, WPCS)",
+    "Composer",
     "jQuery",
     "Sass",
-    "Gulp"
+    "Gulp",
+    "Testing (PHPUnit)"
   ],
   "other": [
-    "Great with clients",
-    "Management experience"
+    "Enterprise experience",
+    "Great with clients and customer service",
+    "Management experience",
+    "WordCamp Asheville Speaker (2016, 2017, 2019)",
+    "WordPress Knoxville Organizer (since 2015)"
   ],
   "bonus": [
     "This resume was built with Webpack 3, React 16.0, Babel, HMR, postcss, and cssnext",
     "Check it out on github: https://github.com/mizner/resume"
   ],
   "experience": [
+    {
+      "company": "Pyxl",
+      "location": "Knoxville & Nashville, TN",
+      "title": "Senior Engineer, Director of Engineering & UX",
+      "year": {
+        "start": "2017",
+        "end": "Present"
+      },
+      "tasks": [
+        "Enterprise WordPress Solutions",
+        "Worked on 15+ Alexa top 500K sites",
+        "Worked on multiple Alexa top 50K sites",
+        "Managed a 15 person UX & engineering team"
+      ]
+    },
     {
       "company": "MakeDo",
       "location": "United Kingdom (remote)",
@@ -47,16 +71,14 @@
       "title": "Lead Developer",
       "year": {
         "start": "2014",
-        "end": "Present"
+        "end": "2017"
       },
       "tasks": [
         "Custom CMS Work (fields, data types)",
         "Create standard templates (gulpfile, loop templates) for jr. developers and train",
         "Theme development (custom templates, SASS, PostCSS)",
         "Build custom plugins (acf, cmb2, webpack, react)",
-        "WooCommerce solution building and customization",
-        "Determine scope and planning for projects",
-        "Graphic design (logos, mock-ups, style tiles, design guides)"
+        "WooCommerce solution building and customization"
       ]
     },
     {
@@ -65,7 +87,7 @@
       "title": "Web Developer",
       "year": {
         "start": "2011",
-        "end": "Present"
+        "end": "2014"
       },
       "tasks": [
         "Theme customization",
@@ -83,16 +105,16 @@
         "end": "2012"
       },
       "tasks": [
-        "Theme customization",
-        "Plugin stack solutions",
-        "Graphic design",
-        "Maintain client sites"
+        "Negotiated corporate contracts with Symantec, IBM, McAfee, RSA",
+        "Handled purchase orders worth over $10 Million annually",
+        "Led a staff of 40 to eliminate a backlog of 10,000 requests(from previous contractor) in two months",
+        "Managed and administered for client of 60,000 employees including UNIX, Lotus, AS400, RACF, DB2."
       ]
     },
     {
       "company": "Altec",
       "location": "Springfield, MO",
-      "title": "System Administration Assistant Manager",
+      "title": "Small Business Sales & Support",
       "year": {
         "start": "2009",
         "end": "2010"
