@@ -21,7 +21,7 @@ const Root = () => {
                 <Skills title={'Modern Skills'} skills={resume.modern}/>
                 <Skills title={'Traditional Skills'} skills={resume.traditional}/>
                 <Skills title={'Other'} skills={resume.other}/>
-                <Skills title={'Bonus'} skills={resume.bonus}/>
+                {/* <Skills title={'Bonus'} skills={resume.bonus}/> */}
             </section>
         </main>
     )

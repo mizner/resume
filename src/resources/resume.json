@@ -2,7 +2,7 @@
   "candidate": {
     "firstName": "Michael",
     "lastName": "Mizner",
-    "title": "Engineering Lead - Web Evangelist",
+    "title": "Web Evangelist / Engineering Lead",
     "email": "michaelmizner@gmail.com",
     "number": "(347) 443-8253"
   },
@@ -30,26 +30,38 @@
     "Great with clients and customer service",
     "Management experience",
     "WordCamp Asheville Speaker (2016, 2017, 2019)",
-    "WordPress Knoxville Organizer (since 2015)"
+    "WordPress Knoxville Organizer (2015 - 2020)"
   ],
   "bonus": [
-    "This resume was built with Webpack 3, React 16.0, Babel, HMR, postcss, and cssnext",
-    "Check it out on github: https://github.com/mizner/resume"
   ],
   "experience": [
+    {
+      "company": "Cigna",
+      "location": "Remote",
+      "title": "Software Engineering Senior Manager",
+      "year": {
+        "start": "2017",
+        "end": "2019"
+      },
+      "tasks": [
+        "Evangelize modern web architecture (which is basically why I was hired)",
+        "Architecture, planning, and product design thinking for in-house products (AWS / golang / angular)",
+        "Managed front-end, back-end, devops, and ux teams"
+      ]
+    },
     {
       "company": "Pyxl",
       "location": "Knoxville & Nashville, TN",
       "title": "Senior Engineer, Director of Engineering & UX",
       "year": {
         "start": "2017",
-        "end": "Present"
+        "end": "2019"
       },
       "tasks": [
-        "Enterprise WordPress Solutions",
+        "Consult with C-level executives on enterprise WordPress Solutions",
         "Worked on 15+ Alexa top 500K sites",
         "Worked on multiple Alexa top 50K sites",
-        "Managed a 15 person UX & engineering team"
+        "Managed a 15+ person UX & engineering team"
       ]
     },
     {
@@ -68,13 +80,12 @@
     {
       "company": "Knoxweb",
       "location": "Knoxville, TN",
-      "title": "Lead Developer",
+      "title": "Lead Developer & Production Lead",
       "year": {
         "start": "2014",
         "end": "2017"
       },
       "tasks": [
-        "Custom CMS Work (fields, data types)",
         "Create standard templates (gulpfile, loop templates) for jr. developers and train",
         "Theme development (custom templates, SASS, PostCSS)",
         "Build custom plugins (acf, cmb2, webpack, react)",
@@ -90,9 +101,8 @@
         "end": "2014"
       },
       "tasks": [
-        "Theme customization",
+        "Graphic design & theme customization",
         "Plugin stack solutions",
-        "Graphic design",
         "Maintain client sites"
       ]
     },
@@ -120,8 +130,7 @@
         "end": "2010"
       },
       "tasks": [
-        "Mobile and PC Repair",
-        "Small Business Sales",
+        "Small business sales and mobile/PC repair",
         "Custom server builds and support"
       ]
     },
@@ -135,8 +144,7 @@
       },
       "tasks": [
         "Advanced Android application support at release of G1 (first widely launched android phone)",
-        "Monthly incentives at top 10% of site",
-        "Performance at top 10% at call resolution time"
+        "Monthly incentives at top 10% of site w/ performance at top 10% at call resolution time"
       ]
     },
     {
@@ -148,9 +156,8 @@
         "end": "2008"
       },
       "tasks": [
-        "Supervision and code review of 250+ requisitions Monthly",
         "Supervision over budgeted annual requirements for 3 Squadrons, averaging $459,000",
-        "Handled DoD purchasing card with a $50,000.00 Monthly purchase limit and a $10,000 single purchase",
+        "Handled DoD purchasing card with a $50,000.00 Monthly and a $10,000 single purchase limits",
         "Conducted and supervised inventory counts of material worth over $1,750,000"
       ]
     },
